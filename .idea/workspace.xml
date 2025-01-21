@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8806ea89-da78-4108-90bb-8eeaeb17d0ab" name="Changes" comment="Update workflow">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Writerside/cfg/buildprofiles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/cfg/buildprofiles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/in.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/t.tree" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Writerside/writerside.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/writerside.cfg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,33 @@
                   <option name="darkRed" value="231" />
                   <option name="green" value="126" />
                   <option name="red" value="231" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Writerside/maug.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="4" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="112" />
+                  <option name="darkBlue" value="112" />
+                  <option name="darkGreen" value="83" />
+                  <option name="darkRed" value="215" />
+                  <option name="green" value="83" />
+                  <option name="red" value="215" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="163" />
+                  <option name="darkBlue" value="163" />
+                  <option name="darkGreen" value="111" />
+                  <option name="darkRed" value="233" />
+                  <option name="green" value="111" />
+                  <option name="red" value="233" />
                 </RgbState>
               </option>
             </ColorState>
@@ -131,10 +158,7 @@
     "Writerside.Web Archive (in).executor": "Run",
     "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "preferences.pluginManager",
-    "writerside.last.selected.productsa-upgrade": "in"
-  },
-  "keyToStringList": {
-    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": []
+    "writerside.last.selected.productsa-upgrade": "maug"
   }
 }]]></component>
   <component name="RecentsManager">

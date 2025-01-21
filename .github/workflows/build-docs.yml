@@ -11,7 +11,7 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'Writerside/Test'
+  INSTANCE: 'Writerside/t'
   DOCKER_VERSION: '243.22562'
 
 jobs:
